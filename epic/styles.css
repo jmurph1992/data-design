@@ -1,0 +1,11 @@
+#likes {
+	padding: 5px;
+	background-color: slategrey;
+	display: inline-block;
+}
+
+#dislikes {
+	padding: 5px;
+	background-color: slategrey;
+	display: inline-block;
+}
