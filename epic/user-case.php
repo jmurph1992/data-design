@@ -20,6 +20,8 @@
 			<li>Henry makes his selections and clicks "update"</li>
 			<li>A shorter list with the new results is displayed</li>
 			<li>Henry can now browse the products that more closely match what he needs</li>
+			<li>When Henry finds a product he wants, he clicks "add to cart"</li>
+			<li>Clicking on "shopping cart" brings up the shopping cart with all of Henry's selected items</li>
 		</ol>
 
 		<a href="index.php">Site Map</a> <br> <br>
