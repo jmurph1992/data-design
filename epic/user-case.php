@@ -27,6 +27,7 @@
 		<a href="index.php">Site Map</a> <br> <br>
 		<a href="persona-henry.php">Persona</a> <br> <br>
 		<a href="user-story.php">User Story</a> <br> <br>
+		<a href="conceptual-model.html">Conceptual Model</a>
 
 	</body>
 </html>

@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>User Persona Page</title>
+		<title>User  Persona Page</title>
 		<link rel="stylesheet" href="./styles.css">
 	</head>
 	<body>
@@ -76,6 +76,7 @@
 		<a href="index.php">Site Map</a> <br> <br>
 		<a href="user-story.php">User Story</a> <br> <br>
 		<a href="user-case.php">User Case</a> <br> <br>
+		<a href="conceptual-model.html">Conceptual Model</a>
 	</body>
 </html>
 
