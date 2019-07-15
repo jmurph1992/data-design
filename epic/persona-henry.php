@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>User  Persona Page</title>
+		<title>User Persona Page</title>
 		<link rel="stylesheet" href="./styles.css">
 	</head>
 	<body>
@@ -15,11 +15,11 @@
 
 		<div>
 			<ul>
-				<li> <strong> Name: </strong> Henry Henry</li>
-				<li> <strong> Age: </strong> 19</li>
-				<li> <strong> Gender: </strong> Male</li>
-				<li> <strong> Occupation: </strong> Professional Gamer</li>
-				<li> <strong> User Type: </strong> Power</li>
+				<li><strong> Name: </strong> Henry Henry</li>
+				<li><strong> Age: </strong> 19</li>
+				<li><strong> Gender: </strong> Male</li>
+				<li><strong> Occupation: </strong> Professional Gamer</li>
+				<li><strong> User Type: </strong> Power</li>
 			</ul>
 		</div>
 
